@@ -1,5 +1,5 @@
 # Background-Generator(Project)
 
-Clor design with Javascript
+Color design with Javascript
 
  
